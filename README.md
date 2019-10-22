@@ -1,3 +1,3 @@
 # Intro-React
 
-- Alicativo de Introdução ao REactJS desenvolvido durante Bootcamp Omnistack da Rocketseat
+- Alicativo de Introdução ao ReactJS desenvolvido durante Bootcamp Omnistack da Rocketseat
